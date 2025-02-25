@@ -1,0 +1,70 @@
+/* General Styling */
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: black;
+    color: white;
+    margin: 0;
+    padding: 0;
+}
+
+/* Header */
+header {
+    margin-top: 20px;
+}
+
+h1 {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.download-link {
+    color: green;
+    text-decoration: none;
+    font-size: 14px;
+}
+
+.download-link:hover {
+    text-decoration: underline;
+}
+
+/* Phone Preview */
+.phone-preview img {
+    width: 300px;
+    margin-top: 20px;
+}
+
+/* Travel Guide */
+.travel-guide {
+    margin-top: 30px;
+}
+
+h2 {
+    font-size: 20px;
+}
+
+p {
+    color: gray;
+    font-size: 14px;
+}
+
+/* Camping Image */
+.camping-image img {
+    width: 80%;
+    max-width: 600px;
+    margin-top: 20px;
+}
+
+/* Coming Soon Section */
+.coming-soon {
+    margin-top: 30px;
+}
+
+.icon {
+    width: 40px;
+}
+
+footer {
+    margin-top: 20px;
+    font-size: 12px;
+}
